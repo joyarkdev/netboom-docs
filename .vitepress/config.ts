@@ -6,9 +6,5 @@ export default defineConfig({
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/joyarkdev/netboom-docs' }
-    ]
   }
 })
