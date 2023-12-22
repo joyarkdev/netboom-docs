@@ -1,7 +1,7 @@
 # 内容存储的位置
 backend:
   name: git-gateway
-  repo: joyarkdev/joyark-docs
+  repo: joyarkdev/netboom-docs
   branch: main # Branch to update (optional; defaults to master)
 
 media_folder: "public/images"
